@@ -46,7 +46,7 @@ class MainMoviesScreen extends StatelessWidget {
                       color: Colors.white,
 
                       letterSpacing: 0.15,
-                    ),
+                    ),//hi
                   ),
                   InkWell(
                     onTap: () {
