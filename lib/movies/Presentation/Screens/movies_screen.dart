@@ -43,7 +43,7 @@ class MainMoviesScreen extends StatelessWidget {
                     style: GoogleFonts.poppins(
                       fontSize: 19,
                       fontWeight: FontWeight.w500,
-                      color: Colors.white,
+                      color: Colors.grey,
 
                       letterSpacing: 0.15,
                     ),//hi
